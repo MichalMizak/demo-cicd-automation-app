@@ -287,3 +287,4 @@ Copy Slack Token into secret `argocd-notifications-secret` as shown in file
 ![Slack Notifications](/docs/Slack-Argo-Notifications.png)
 
 
+
